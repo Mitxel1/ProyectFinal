@@ -28,8 +28,8 @@ const app = express();
 
 // ⭐ CONFIGURACIÓN CORS ACTUALIZADA PARA FIREBASE + RENDER
 const allowedOrigins = [
-  'https://gymn.web.app',           // URL de producción de Firebase
-  'https://gymn.firebaseapp.com',   // URL alternativa de Firebase
+  'https://gymn-1c65a.web.app',     // URL real de producción de Firebase
+  'https://gymn-1c65a.firebaseapp.com', // URL alternativa de Firebase
   'http://localhost:4200',          // Desarrollo local
   'http://localhost:3000',          // Desarrollo alternativo
 ];
